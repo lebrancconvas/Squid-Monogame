@@ -51,7 +51,7 @@ namespace SquidGame
 
         protected override void Draw(GameTime gameTime)
         {
-            GraphicsDevice.Clear(Color.CornflowerBlue);
+            GraphicsDevice.Clear(Color.LightPink);
 
             // TODO: Add your drawing code here
             _spriteBatch.Begin();
