@@ -6,8 +6,13 @@ namespace SquidGame
 {
     public class SquidGame : Game
     {
+        public const int WIDTH = 800;
+        public const int HEIGHT = 600;
+
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
+
+        Texture2D _squid;
 
         public SquidGame()
         {
@@ -19,6 +24,9 @@ namespace SquidGame
         protected override void Initialize()
         {
             // TODO: Add your initialization logic here
+            _graphics.PreferredBackBufferWidth = WIDTH;
+            _graphics.PreferredBackBufferHeight = HEIGHT;
+            _graphics.ApplyChanges();
 
             base.Initialize();
         }
@@ -28,6 +36,7 @@ namespace SquidGame
             _spriteBatch = new SpriteBatch(GraphicsDevice);
 
             // TODO: use this.Content to load your game content here
+            _squid = this.Content.Load<Texture2D>("Sprite/Character/Squid");
         }
 
         protected override void Update(GameTime gameTime)
@@ -45,6 +54,9 @@ namespace SquidGame
             GraphicsDevice.Clear(Color.CornflowerBlue);
 
             // TODO: Add your drawing code here
+            _spriteBatch.Begin();
+
+            _spriteBatch.End();
 
             base.Draw(gameTime);
         }

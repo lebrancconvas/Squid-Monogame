@@ -1,15 +1,15 @@
-﻿<Properties StartupConfiguration="{0A75DDAE-DD31-4389-B162-30C8DF5318D0}|Default">
-  <MonoDevelop.Ide.ItemProperties.SquidGame FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SquidGame/Game1.cs">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{0A75DDAE-DD31-4389-B162-30C8DF5318D0}|Default">
+  <MonoDevelop.Ide.ItemProperties.SquidGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="SquidGame/Game1.cs" Line="1" Column="1" />
+      <File FileName="SquidGame/Game1.cs" Line="29" Column="38" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SquidGame" expanded="True">
             <Node name="SquidGame" expanded="True">
-              <Node name="Game1.cs" selected="True" />
+              <Node name="State" selected="True" />
             </Node>
           </Node>
         </State>

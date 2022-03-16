@@ -21,3 +21,4 @@
 /Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Project/Game/Monogame/SquidGame/SquidGame/SquidGame/obj/Debug/netcoreapp3.1/SquidGame.dll
 /Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Project/Game/Monogame/SquidGame/SquidGame/SquidGame/obj/Debug/netcoreapp3.1/SquidGame.pdb
 /Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Project/Game/Monogame/SquidGame/SquidGame/SquidGame/obj/Debug/netcoreapp3.1/SquidGame.genruntimeconfig.cache
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Project/Game/Monogame/SquidGame/SquidGame/SquidGame/bin/Debug/netcoreapp3.1/Content/Sprite/Character/Squid.xnb
