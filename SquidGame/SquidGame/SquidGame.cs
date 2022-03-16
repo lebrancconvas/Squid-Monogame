@@ -14,6 +14,8 @@ namespace SquidGame
 
         Texture2D _squid;
 
+        SpriteFont _font;
+
         public SquidGame()
         {
             _graphics = new GraphicsDeviceManager(this);
@@ -37,6 +39,7 @@ namespace SquidGame
 
             // TODO: use this.Content to load your game content here
             _squid = this.Content.Load<Texture2D>("Sprite/Character/Squid");
+            _font = this.Content.Load<SpriteFont>("Font/GameFont");
         }
 
         protected override void Update(GameTime gameTime)
