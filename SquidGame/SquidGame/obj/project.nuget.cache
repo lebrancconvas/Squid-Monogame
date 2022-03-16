@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tC05XIiWoWY2p5lylpvOW+i5zRifDEIXDHL+iuiOAy0rMXOIi+Bz6hWpssu9vHeyRsxleQ40DyJeMI+kUc2ZcA==",
+  "success": true,
+  "projectFilePath": "/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Project/Game/Monogame/SquidGame/SquidGame/SquidGame/SquidGame.csproj",
+  "expectedPackageFiles": [
+    "/Users/poomyimyuean/.nuget/packages/monogame.content.builder.task/3.8.0.1641/monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "/Users/poomyimyuean/.nuget/packages/monogame.framework.desktopgl/3.8.0.1641/monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}
