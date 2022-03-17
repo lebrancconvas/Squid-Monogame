@@ -24,3 +24,4 @@
 /Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Project/Game/Monogame/SquidGame/SquidGame/SquidGame/bin/Debug/netcoreapp3.1/Content/Sprite/Character/Squid.xnb
 /Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Project/Game/Monogame/SquidGame/SquidGame/SquidGame/bin/Debug/netcoreapp3.1/Content/Font/GameFont.xnb
 /Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Project/Game/Monogame/SquidGame/SquidGame/SquidGame/bin/Debug/netcoreapp3.1/Content/Sprite/Character/SquadMan_01.xnb
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Project/Game/Monogame/SquidGame/SquidGame/SquidGame/bin/Debug/netcoreapp3.1/Content/Sprite/Character/SquadMan_02.xnb

@@ -32,6 +32,18 @@
 /processorParam:TextureFormat=Color
 /build:Sprite/Character/SquadMan_01.png
 
+#begin Sprite/Character/SquadMan_02.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Sprite/Character/SquadMan_02.png
+
 #begin Sprite/Character/Squid.png
 /importer:TextureImporter
 /processor:TextureProcessor

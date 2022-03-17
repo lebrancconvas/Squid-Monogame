@@ -6,9 +6,11 @@
   <SourceFiles>
     <File>/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Project/Game/Monogame/SquidGame/SquidGame/SquidGame/Content/Font/GameFont.spritefont</File>
     <File>/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Project/Game/Monogame/SquidGame/SquidGame/SquidGame/Content/Sprite/Character/SquadMan_01.png</File>
+    <File>/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Project/Game/Monogame/SquidGame/SquidGame/SquidGame/Content/Sprite/Character/SquadMan_02.png</File>
     <File>/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Project/Game/Monogame/SquidGame/SquidGame/SquidGame/Content/Sprite/Character/Squid.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
